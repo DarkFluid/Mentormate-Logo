@@ -1,0 +1,7 @@
+E:\Coding\Mentermate\Mentormate\Mentormate\bin\Debug\Mentormate.exe.config
+E:\Coding\Mentermate\Mentormate\Mentormate\bin\Debug\Mentormate.exe
+E:\Coding\Mentermate\Mentormate\Mentormate\bin\Debug\Mentormate.pdb
+E:\Coding\Mentermate\Mentormate\Mentormate\obj\Debug\Mentormate.csprojAssemblyReference.cache
+E:\Coding\Mentermate\Mentormate\Mentormate\obj\Debug\Mentormate.csproj.CoreCompileInputs.cache
+E:\Coding\Mentermate\Mentormate\Mentormate\obj\Debug\Mentormate.exe
+E:\Coding\Mentermate\Mentormate\Mentormate\obj\Debug\Mentormate.pdb
